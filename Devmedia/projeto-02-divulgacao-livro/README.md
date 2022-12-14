@@ -18,7 +18,7 @@
 <h3>Status do Projeto</h3>
 <p>✅ Layout para Desktop finalizado ✅<p>
 <h3>Acesso ao Projeto</h3>
-<p>Você pode acessar o projeto final <a href="https://projeto-01-parque-estadual-ilha-bela.vercel.app/">clicando aqui</a></p>
+<p>Você pode acessar o projeto final <a href="https://projeto-02-divulgacao-livro-k7jezc6kh-oliveirathais.vercel.app">clicando aqui</a></p>
 </section>
 
 <section>
