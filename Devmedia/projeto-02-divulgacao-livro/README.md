@@ -16,7 +16,7 @@
 
 <section>
 <h3>Status do Projeto</h3>
-<p>✅ Layout para Desktop finalizado ✅<p>
+<p>✅ Layout para Desktop finalizado<p>
 <h3>Acesso ao Projeto</h3>
 <p>Você pode acessar o projeto final <a href="https://projeto-02-divulgacao-livro-k7jezc6kh-oliveirathais.vercel.app" target="_blank">clicando aqui</a></p>
 </section>
