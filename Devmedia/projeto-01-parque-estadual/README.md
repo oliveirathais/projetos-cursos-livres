@@ -6,7 +6,7 @@
 <h3>Status do Projeto</h3>
 <p>✅ Layout para Desktop finalizado ✅<p>
 <h3>Acesso ao Projeto</h3>
-<p>Você pode acessar o projeto final <a href="https://projeto-01-parque-estadual-ilha-bela.vercel.app/">clicando aqui</a></p>
+<p>Você pode acessar o projeto final <a href="https://projeto-01-parque-estadual-ilha-bela.vercel.app/" target="_blank">clicando aqui</a></p>
 <h3>Tecnologias utilizadas</h3>
 <ul>
   <li>HTML</li>
